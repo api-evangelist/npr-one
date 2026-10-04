@@ -39,7 +39,6 @@ apis:
   - name: NPR One
     description: "Personalized news listening experience from NPR"
     humanURL: http://dev.npr.org/api/
-    baseURL: http://dev.npr.org/api/
     tags:
       - News
     properties:
